@@ -2,4 +2,4 @@
 
 # • ExpressEats
 
-This is just a simple food delivery made using kotlin while taking the SmartInternz Android Development course.
+This is just a simple food delivery app made using kotlin while taking the SmartInternz Android Development course.
